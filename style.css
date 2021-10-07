@@ -27,12 +27,12 @@
 
     header{
         height: 55vh;
-        background-image: url(../assets/img/studentsbg.png);
+        background-image: url(/assets/img/studentsbg.png);
         z-index: -1;
         background-attachment: fixed;
         background-position: center top;
         background-size: cover;
-            
+        color: white;
     }
 
     header > div {
@@ -42,7 +42,7 @@
         background-color: #c5192d;
         padding: 2rem;
         margin: 1rem;
-        ;
+    
     }
     
     main {
