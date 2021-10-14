@@ -167,13 +167,14 @@
         width: 45%;
         vertical-align: top;
     }
-
-    article > *:nth-child(even) {
+  
+    article > *:nth-child(odd) {
         margin-right: 10%;
 
     }
+  
     article > *:nth-child(even) {
-        margin-left: -6px;
+        margin-right: -7px;
     }
 
     #intro-container{
